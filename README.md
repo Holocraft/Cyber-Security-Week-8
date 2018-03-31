@@ -19,20 +19,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection
 
-Vulnerability #2: ********\_\_********
+![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/SQLI.gif)
+
+Vulnerability #2:
 
 ## Green
 
 Vulnerability #1: Username Enumeration
 
-Vulnerability #2: ********\_\_********
+![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/EnumerationGreen.gif)
+
+Vulnerability #2: XSS
+
+![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/XSSGreen.gif)
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
 
-Vulnerability #2: ********\_\_********
+![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/IDOR.gif)
+
+Vulnerability #2:
 
 ## Notes
-
-Describe any challenges encountered while doing the work
