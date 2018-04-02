@@ -21,7 +21,9 @@ Vulnerability #1: SQL Injection
 
 ![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/SQLI.gif)
 
-Vulnerability #2:
+Vulnerability #2: Session Fixation
+
+![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/SessionBlue.gif)
 
 ## Green
 
@@ -39,6 +41,8 @@ Vulnerability #1: Insecure Direct Object Reference
 
 ![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/IDOR.gif)
 
-Vulnerability #2:
+Vulnerability #2: CSRF
+
+![](https://raw.githubusercontent.com/Holocraft/Cyber-Security-Week-8/master/CSRFRed.gif)
 
 ## Notes
